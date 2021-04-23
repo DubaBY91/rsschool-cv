@@ -1,0 +1,3 @@
+new file
+second file
+third file
